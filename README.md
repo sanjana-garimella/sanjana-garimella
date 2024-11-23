@@ -19,25 +19,35 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
    - **Tools & Technologies**:  
      `Django`, `Python`, `HTML`, `CSS`, `MySQL`
 
-- **Green Grow**  
-  - **Description**: Created a platform connecting green entrepreneurs with stakeholders to promote eco-friendly products using Spring Boot and AWS.  
-  - **Tools & Technologies**: Spring Boot, AWS, MySQL, Java 
+- **Green Grow**
+   - **Description**:  
+     Created a platform connecting **green entrepreneurs** with stakeholders to promote eco-friendly products, leveraging **Spring Boot** and **AWS**.
+   - **Tools & Technologies**:  
+     `Spring Boot`, `AWS`, `MySQL`, `Java`
 
-- **Static Web Hosting**  
-  - **Description**: Deployed a static website on AWS EC2, utilizing PuTTY and VPC for secure configuration and hosting.  
-  - **Tools & Technologies**: AWS EC2, Amazon VPC, PuTTY 
+- **Static Web Hosting**
+   - **Description**:  
+     Deployed a static website on **AWS EC2** using **PuTTY** and **VPC** for secure configuration and hosting.
+   - **Tools & Technologies**:  
+     `AWS EC2`, `Amazon VPC`, `PuTTY` 
 
-- **Crop Prediction**  
-  - **Description**: Built a machine learning model using KNN, SVM, and Random Forest, achieving 95% accuracy in recommending suitable crops based on soil and weather conditions.  
-  - **Tools & Technologies**: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Crop Prediction**
+   - **Description**:  
+     Built a machine learning model using **KNN**, **SVM**, **Random Forest**, achieving **95% accuracy** in predicting suitable crops based on soil and weather conditions.
+   - **Tools & Technologies**:  
+     `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`
 
-- **Loan Eligibility Prediction**  
-  - **Description**: Automated loan evaluation using supervised learning models, identifying Random Forest as the most effective, achieving 78% accuracy.  
-  - **Tools & Technologies**: Python, Scikit-learn, Logistic Regression, Random Forest   
+- **Loan Eligibility Prediction**
+   - **Description**:  
+     Automated loan evaluation using supervised learning models, with **Random Forest** achieving **78% accuracy**.
+   - **Tools & Technologies**:  
+     `Python`, `Scikit-learn`, `Logistic Regression`, `Random Forest`
 
-- **Face Mask Detection**  
-  - **Description**: Developed a deep learning model with OpenCV and Keras to classify individuals based on mask usage, achieving high accuracy.  
-  - **Tools & Technologies**: Python, TensorFlow, Keras, OpenCV  
+- **Face Mask Detection**
+   - **Description**:  
+     Developed a deep learning model with **OpenCV** and **Keras** to classify individuals as wearing or not wearing masks, achieving high accuracy.
+   - **Tools & Technologies**:  
+     `Python`, `TensorFlow`, `Keras`, `OpenCV`  
 
 
 ## 🔑 Technical Skills
