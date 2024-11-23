@@ -90,4 +90,4 @@ My academic journey equipped me with strong technical and analytical skills, par
    A discussion on the impact of data science in the healthcare sector.  
 - [🌍 Take a Trip Project Blog](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-activity-6766830065876660224-k3sy?utm_source=share&utm_medium=member_desktop):  
    Insights into the **travel management website** project.  
-- [🌱 Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=
+- [🌱 Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=member_desktop):
