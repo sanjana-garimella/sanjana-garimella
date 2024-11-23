@@ -13,9 +13,11 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
 - **Indian Servers ML Intern**: Worked on impactful projects like face mask detection and vehicle damage detection, applying machine learning algorithms effectively.
 
 ## 🔧 Key Projects
-- **Take a Trip**  
-  - **Description**: Led the development of a travel and hospitality management website, featuring curated destinations, hotel bookings, and travel agent connections.  
-  - **Tools & Technologies**: Django, Python, HTML, CSS, MySQL 
+- **Take a Trip**
+   - **Description**:  
+     Led the development of a **travel and hospitality** management website, enabling users to plan trips with curated destinations, hotel bookings, and travel agent connections.
+   - **Tools & Technologies**:  
+     `Django`, `Python`, `HTML`, `CSS`, `MySQL`
 
 - **Green Grow**  
   - **Description**: Created a platform connecting green entrepreneurs with stakeholders to promote eco-friendly products using Spring Boot and AWS.  
