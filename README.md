@@ -73,4 +73,4 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
 - LinkedIn: ([https://www.linkedin.com/in/sanjana--garimella](https://www.linkedin.com/in/sanjana--garimella/))
 
 ## 🤝 Let's Connect!
-I'm excited to collaborate on projects that drive innovation in data science and machine learning. Feel free to reach out!
+💡 **I'm constantly learning and passionate about tackling complex challenges.** Let's connect and collaborate on exciting projects that make a difference!
