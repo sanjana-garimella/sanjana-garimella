@@ -32,6 +32,7 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
 ## 📚 Blogs
 - [Role of Data Science in Healthcare](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-ds-activity-6792782394928852992-_rtv?utm_source=share&utm_medium=member_desktop): A discussion on the impact of data science on the healthcare sector.
 - [Take a Trip Project Blog](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-activity-6766830065876660224-k3sy?utm_source=share&utm_medium=member_desktop): Insights into my project on the travel management website.
+- [Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=member_desktop): An in-depth look at my project aimed at boosting green entrepreneurship through an online platform connecting green entrepreneurs, experts, stakeholders, and customers.
 
 ## 📞 Contact Information
 - Email: [sanjanagarimella6@gmail.com](mailto:sanjanagarimella6@egmail.com)
