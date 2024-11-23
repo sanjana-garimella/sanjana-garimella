@@ -12,7 +12,7 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
 - **Amazon ML Summer Intern**: Explored supervised learning and deep neural networks, uncovering their transformative potential in tech.
 - **Indian Servers ML Intern**: Worked on impactful projects like face mask detection and vehicle damage detection, applying machine learning algorithms effectively.
 
-## 🔧 Key Projects
+## 🔧 Key Academic Projects
 - **Take a Trip**
    - **Description**:  
      Led the development of a **travel and hospitality** management website, enabling users to plan trips with curated destinations, hotel bookings, and travel agent connections.
