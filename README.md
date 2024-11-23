@@ -70,7 +70,7 @@ My academic journey equipped me with strong technical and analytical skills, par
 
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java | ![R](https://img.icons8.com/color/48/000000/r.png) R | ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL |
 |:---:|:---:|:---:|:---:|
-| ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) Grafana | ![Jupyter]([https://img.icons8.com/color/48/000000/jupyter.png](https://img.icons8.com/?id=J0SgMWzAxqFj&format=png&color=000000)) Jupyter | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code | ![Github](https://img.icons8.com/color/48/000000/github.png) GitHub |
+| ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) Grafana | ![Jupyter](https://img.icons8.com/?id=J0SgMWzAxqFj&format=png&color=000000) Jupyter | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code | ![Github](https://img.icons8.com/color/48/000000/github.png) GitHub |
 | ![Django](https://img.icons8.com/color/48/000000/django.png) Django | ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
 
 ---
