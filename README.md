@@ -1,5 +1,5 @@
 # 👋 Hello!
-I’m a dynamic Software Developer at IBM, blending technology and innovation to solve real-world problems, with a strong focus on machine learning, data science, and automation.
+I'm **Sanjana Garimella**, a passionate software developer and machine learning enthusiast with experience in developing innovative solutions across cloud computing, AI, and web development. With a strong foundation in Python, machine learning, and cloud technologies, I enjoy building projects that solve real-world problems.
 
 ## 🎓 Educational Background
 I graduated from KL University with a B.Tech in Computer Science, maintaining a commendable CGPA of 9.12/10. My academic journey has equipped me with solid technical and analytical skills, particularly in machine learning, database management systems, and Python programming.
@@ -13,8 +13,30 @@ I graduated from KL University with a B.Tech in Computer Science, maintaining a 
 - **Indian Servers ML Intern**: Worked on impactful projects like face mask detection and vehicle damage detection, applying machine learning algorithms effectively.
 
 ## 🔧 Key Projects
-- **Loan Eligibility Prediction**: Developed a highly effective machine learning model that streamlined loan eligibility evaluations.
-- **Take a Trip**: Led the development of a popular travel management website, enhancing user experience in trip planning across India.
+- **Take a Trip**  
+  - **Description**: Led the development of a travel and hospitality management website, featuring curated destinations, hotel bookings, and travel agent connections.  
+  - **Tools & Technologies**: Django, Python, HTML, CSS, MySQL 
+
+- **Green Grow**  
+  - **Description**: Created a platform connecting green entrepreneurs with stakeholders to promote eco-friendly products using Spring Boot and AWS.  
+  - **Tools & Technologies**: Spring Boot, AWS, MySQL, Java 
+
+- **Static Web Hosting**  
+  - **Description**: Deployed a static website on AWS EC2, utilizing PuTTY and VPC for secure configuration and hosting.  
+  - **Tools & Technologies**: AWS EC2, Amazon VPC, PuTTY 
+
+- **Crop Prediction**  
+  - **Description**: Built a machine learning model using KNN, SVM, and Random Forest, achieving 95% accuracy in recommending suitable crops based on soil and weather conditions.  
+  - **Tools & Technologies**: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+
+- **Loan Eligibility Prediction**  
+  - **Description**: Automated loan evaluation using supervised learning models, identifying Random Forest as the most effective, achieving 78% accuracy.  
+  - **Tools & Technologies**: Python, Scikit-learn, Logistic Regression, Random Forest   
+
+- **Face Mask Detection**  
+  - **Description**: Developed a deep learning model with OpenCV and Keras to classify individuals based on mask usage, achieving high accuracy.  
+  - **Tools & Technologies**: Python, TensorFlow, Keras, OpenCV  
+
 
 ## 🔑 Technical Skills
 
