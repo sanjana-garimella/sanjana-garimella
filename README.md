@@ -22,7 +22,7 @@ My academic journey equipped me with strong technical and analytical skills, par
 - **Amazon ML Summer Intern**  
    Gained expertise in **supervised learning** and **deep neural networks**, exploring their transformative potential.  
 - **Indian Servers ML Intern**  
-   Delivered impactful projects such as **face mask detection** and **vehicle damage detection** using advanced ML algorithms.
+   Worked on **Face Mask Detection** project during the COVID-19 pandemic using OpenCV, Keras, and TensorFlow. This experience provided practical exposure to machine learning and deep learning algorithms, demonstrating their impact in addressing critical global challenges.
 
 ---
 
