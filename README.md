@@ -1,5 +1,5 @@
 # 👋 Hello!
-I'm **Sanjana Garimella**, a passionate **software developer** and **machine learning enthusiast** with experience in developing innovative solutions across **cloud computing**, **Machine learning**, and **web development**. I specialize in creating impactful projects that solve real-world problems using **Python**, **machine learning**, and **cloud technologies**.
+I’m **Sanjana Garimella**, a dedicated **software developer** and **machine learning enthusiast** with hands-on experience in cloud computing, machine learning, and web development. I specialize in building innovative solutions that address real-world challenges, leveraging **Python**, **machine learning**, and **cloud technologies**.
 
 ---
 
