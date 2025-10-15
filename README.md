@@ -25,7 +25,7 @@ I’m passionate about developing scalable, intelligent solutions that bridge **
 ### 🎓 Education
 
 - **M.S. in Data Science**, *University of California, San Diego* (2025–2027, In Progress)  
-- **B.Tech in Computer Science**, *KL University* — CGPA: 9.12/10 (≈3.65/4.0)
+- **B.Tech in Computer Science**, *KL University* — CGPA: 3.65/4.0
 
 ---
 
