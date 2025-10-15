@@ -1,20 +1,31 @@
-# 👋 Hello!
-I’m **Sanjana Garimella**, a dedicated **software developer** and **machine learning enthusiast** with hands-on experience in cloud computing, machine learning, and web development. I specialize in building innovative solutions that address real-world challenges, leveraging **Python**, **machine learning**, and **cloud technologies**.
+## 👋 Hello, I’m Sanjana Garimella!
+
+🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**, and **Research Assistant** working on high-performance computing and data-driven research workflows.  
+💻 Former **Software Developer at IBM**, with hands-on experience in **machine learning**, **automation**, and **scalable systems**.  
+
+I’m passionate about developing scalable, intelligent solutions that bridge **data science and system engineering** — from automating workflows to building ML-powered applications.
 
 ---
 
-## 🎓 **Educational Background**
-🎓 **B.Tech in Computer Science**, KL University  
-📈 **CGPA**: 9.12/10  
-My academic journey equipped me with strong technical and analytical skills, particularly in **machine learning**, **database management systems**, and **Python programming**.
+### 💼 Experience
+
+**Research Assistant – University of California, San Diego**  
+- Support large-scale neuroscience research by managing **Python-based data pipelines**, **containerized applications** on the **Voyager GPU supercomputer**, and **MongoDB databases**.  
+- Focus on **workflow optimization**, **automation**, and **computational reproducibility** in collaborative research environments.  
+
+**Software Developer – IBM**  
+- Automated **security scans** and enhanced the **MEND vulnerability tracking system** using Python, REST APIs, and Jenkins, impacting 100+ repositories across global teams.  
+- Managed **power subsystem automation** within IBM z Systems and contributed to data analysis and multi-cloud provisioning initiatives.  
+
+**Software Developer Intern – IBM**  
+- Built and deployed a **Grafana dashboard** integrating security scan data, improving visibility and decision-making for engineering teams.  
 
 ---
 
-## 💼 **Career Journey**
-- **IBM Software Developer**  
-   Managed power states and automated security scans, significantly improving the **MEND vulnerability tracking system**.  
-- **IBM Intern**  
-   Designed a sophisticated **Grafana dashboard** to consolidate and present security scan results, enhancing management oversight.
+### 🎓 Education
+
+- **M.S. in Data Science**, *University of California, San Diego* (2025–2027, In Progress)  
+- **B.Tech in Computer Science**, *KL University* — CGPA: 9.12/10 (≈3.65/4.0)
 
 ---
 
