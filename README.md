@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Sanjana Garimella!
 
-🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**, and **Research Assistant** working on high-performance computing and data-driven research workflows.  
+🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**.
 💻 Former **Software Developer at IBM**, with hands-on experience in **machine learning**, **automation**, and **scalable systems**.  
 
 I’m passionate about developing scalable, intelligent solutions that bridge **data science and system engineering** — from automating workflows to building ML-powered applications.
@@ -10,7 +10,7 @@ I’m passionate about developing scalable, intelligent solutions that bridge **
 ### 💼 Experience
 
 **Research Assistant – University of California, San Diego**  
-- Support large-scale neuroscience research by managing **Python-based data pipelines**, **containerized applications** on the **Voyager GPU supercomputer**, and **MongoDB databases**.  
+- Support large-scale neuroscience research by managing **Python-based data workflows**, **system reliability**, and **MongoDB databases**.  
 - Focus on **workflow optimization**, **automation**, and **computational reproducibility** in collaborative research environments.  
 
 **Software Developer – IBM**  
