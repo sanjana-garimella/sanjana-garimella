@@ -39,34 +39,46 @@ I’m passionate about developing scalable, intelligent solutions that bridge **
 
 ## 🔧 **Key Academic Projects**
 
-### Socially-Aware Spatial Markov Random Field for Personalized Recommendation
-- Designed and implemented a **top-N recommendation system** to address **cold-start users and extreme data sparsity (99.99%)** on a large-scale consumer review dataset (Epinions).
-- Combined **Bayesian Logistic Regression** with a **Spatial Markov Random Field (MRF)** to integrate **user behavior, content features, and social trust signals** for improved preference prediction.
-- Engineered **35+ features**, including review metadata and social network metrics (trust relationships, PageRank, centrality), to enhance model robustness under sparse data conditions.
-- Benchmarked against **collaborative filtering and probabilistic baselines**, achieving a **25% relative improvement in AUC** over the baseline and outperforming prior research approaches.
-- Evaluated models using **AUC, precision, recall, and confusion matrices** to validate effectiveness for real-world top-N recommendation scenarios.
+---
 
-**Technologies:** Python, Logistic Regression, Bayesian Modeling, Markov Random Fields, Social Network Analysis, NumPy, Pandas, Scikit-learn
+### 🤖 Socially-Aware Spatial Markov Random Field for Personalized Recommendation
+**Description:**  
+Designed and implemented a top-N recommendation system to tackle cold-start users and extreme data sparsity (99.99%) on a large-scale consumer review dataset (Epinions).  
 
-### Take a Trip 
-Developed a travel and hospitality website enabling users to plan trips across 10+ major cities in India.  
+**Key Highlights:**  
+- Combined **Bayesian Logistic Regression** with a **Spatial Markov Random Field (MRF)** to integrate user behavior, content features, and social trust signals.  
+- Engineered **35+ features**, including review metadata and social network metrics (trust relationships, PageRank, centrality) to enhance model robustness under sparse conditions.  
+- Benchmarked against collaborative filtering and probabilistic baselines, achieving **25% relative improvement in AUC** over baseline and outperforming prior research approaches.  
+- Evaluated using **AUC, precision, recall, and confusion matrices** to validate effectiveness for real-world top-N recommendation scenarios.  
 
-**Key Highlights:**
-- Led a team of 3 and implemented features including destination suggestions, hotel bookings, and access to trusted travel agents.  
-- Optimized database queries to reduce page load time by 30% and improved multi-user session handling.  
-- Engineered backend systems to support seamless user experience and scalability.  
+**Technologies & Tools:** Python, Logistic Regression, Bayesian Modeling, Markov Random Fields, Social Network Analysis, NumPy, Pandas, Scikit-learn  
 
-**Technologies & Tools:** Python, Django, MySQL, HTML, CSS, JavaScript
+---
 
-### Green Grow – Green Entrepreneurship Platform
-Developed a platform connecting green entrepreneurs with stakeholders, experts, developers, and customers to promote eco-friendly products and sustainable initiatives.
+### ✈️ Take a Trip – Travel & Hospitality Platform
+**Description:**  
+Developed a web platform enabling users to plan trips across **10+ major cities in India**.  
 
-**Key Highlights:**
-- Enabled entrepreneurs to submit innovative ideas, validated by experts, funded by stakeholders, and developed into market-ready products.  
-- Built e-commerce functionality for green products, connecting sustainable ideas to customers.  
-- Deployed on AWS ensuring scalability, reliability, and smooth integration across all modules.
+**Key Highlights:**  
+- Led a team of 3 to implement features including **destination suggestions, hotel bookings**, and access to **trusted travel agents**.  
+- Optimized database queries to **reduce page load time by 30%** and improved **multi-user session handling**.  
+- Engineered backend systems to support **scalable and seamless user experience**.  
+
+**Technologies & Tools:** Python, Django, MySQL, HTML, CSS, JavaScript  
+
+---
+
+### 🌱 Green Grow – Green Entrepreneurship Platform
+**Description:**  
+Developed a platform connecting green entrepreneurs with **stakeholders, experts, developers, and customers** to promote eco-friendly products and sustainable initiatives.  
+
+**Key Highlights:**  
+- Enabled entrepreneurs to **submit innovative ideas**, validated by experts, funded by stakeholders, and developed into **market-ready products**.  
+- Built **e-commerce functionality** for green products, connecting sustainable ideas to customers.  
+- Deployed on **AWS (EC2 & RDS)**, ensuring **scalability, reliability**, and smooth integration across all modules.  
 
 **Technologies & Tools:** Spring Boot, MySQL, AWS EC2 & RDS, S3, JSP, Java
+
 
 
 ---
