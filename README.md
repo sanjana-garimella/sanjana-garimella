@@ -39,41 +39,26 @@ I’m passionate about developing scalable, intelligent solutions that bridge **
 
 ## 🔧 **Key Academic Projects**
 
-### 1. **Take a Trip**
-   - **Description**:  
-     Developed a **travel and hospitality** management website, enabling users to plan trips with curated destinations, hotel bookings, and travel agent connections.
-   - **Tools & Technologies**:  
-     `Django`, `Python`, `HTML`, `CSS`, `MySQL`
+### Socially-Aware Spatial Markov Random Field for Personalized Recommendation
+- Designed and implemented a **top-N recommendation system** to address **cold-start users and extreme data sparsity (99.99%)** on a large-scale consumer review dataset (Epinions).
+- Combined **Bayesian Logistic Regression** with a **Spatial Markov Random Field (MRF)** to integrate **user behavior, content features, and social trust signals** for improved preference prediction.
+- Engineered **35+ features**, including review metadata and social network metrics (trust relationships, PageRank, centrality), to enhance model robustness under sparse data conditions.
+- Benchmarked against **collaborative filtering and probabilistic baselines**, achieving a **25% relative improvement in AUC** over the baseline and outperforming prior research approaches.
+- Evaluated models using **AUC, precision, recall, and confusion matrices** to validate effectiveness for real-world top-N recommendation scenarios.
 
-### 2. **Green Grow**
-   - **Description**:  
-     Built a platform connecting **green entrepreneurs** with stakeholders, promoting eco-friendly products.
-   - **Tools & Technologies**:  
-     `Spring Boot`, `AWS`, `MySQL`, `Java`
+**Technologies:** Python, Logistic Regression, Bayesian Modeling, Markov Random Fields, Social Network Analysis, NumPy, Pandas, Scikit-learn
 
-### 3. **Static Web Hosting**
-   - **Description**:  
-     Deployed a static website on **AWS EC2**, utilizing **PuTTY** and **VPC** for secure configuration.
-   - **Tools & Technologies**:  
-     `AWS EC2`, `Amazon VPC`, `PuTTY`
+### Take a Trip 
+Developed a travel and hospitality website enabling users to plan trips across 10+ major cities in India.  
 
-### 4. **Crop Prediction**
-   - **Description**:  
-     Implemented ML models (**KNN**, **SVM**, **Random Forest**) to predict suitable crops with **95% accuracy**.
-   - **Tools & Technologies**:  
-     `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`
+**Key Highlights:**
+- Led a team of 3 and implemented features including destination suggestions, hotel bookings, and access to trusted travel agents.  
+- Optimized database queries to reduce page load time by 30% and improved multi-user session handling.  
+- Engineered backend systems to support seamless user experience and scalability.  
 
-### 5. **Loan Eligibility Prediction**
-   - **Description**:  
-     Automated loan evaluation using **supervised learning models**, achieving **78% accuracy**.
-   - **Tools & Technologies**:  
-     `Python`, `Scikit-learn`, `Logistic Regression`, `Random Forest`
+**Technologies & Tools:** Python, Django, MySQL, HTML, CSS, JavaScript
 
-### 6. **Face Mask Detection**
-   - **Description**:  
-     Built a deep learning model to classify mask usage with **high accuracy**, using **OpenCV** and **Keras**.
-   - **Tools & Technologies**:  
-     `Python`, `TensorFlow`, `Keras`, `OpenCV`
+
 
 ---
 
