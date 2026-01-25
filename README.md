@@ -58,6 +58,15 @@ Developed a travel and hospitality website enabling users to plan trips across 1
 
 **Technologies & Tools:** Python, Django, MySQL, HTML, CSS, JavaScript
 
+### Green Grow – Green Entrepreneurship Platform
+Developed a platform connecting green entrepreneurs with stakeholders, experts, developers, and customers to promote eco-friendly products and sustainable initiatives.
+
+**Key Highlights:**
+- Enabled entrepreneurs to submit innovative ideas, validated by experts, funded by stakeholders, and developed into market-ready products.  
+- Built e-commerce functionality for green products, connecting sustainable ideas to customers.  
+- Deployed on AWS ensuring scalability, reliability, and smooth integration across all modules.
+
+**Technologies & Tools:** Spring Boot, MySQL, AWS EC2 & RDS, S3, JSP, Java
 
 
 ---
@@ -83,12 +92,15 @@ Developed a travel and hospitality website enabling users to plan trips across 1
 ---
 
 ## 📚 **Blogs**
+-
 - [📊 Role of Data Science in Healthcare](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-ds-activity-6792782394928852992-_rtv?utm_source=share&utm_medium=member_desktop):  
-   A discussion on the impact of data science in the healthcare sector.  
+   Explores how data science techniques are transforming healthcare from predictive analytics to patient care optimization, highlighting real-world applications and industry trends.  
 - [🌍 Take a Trip Project Blog](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-activity-6766830065876660224-k3sy?utm_source=share&utm_medium=member_desktop):  
-   Insights into the **travel management website** project.  
+   Shares insights into building a travel and hospitality management platform, covering challenges in designing user-friendly trip planning features, hotel booking integration, and performance optimization strategies  
 - [🌱 Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=member_desktop):  
-   Details on connecting **green entrepreneurs** with stakeholders through a dedicated platform.  
+   Shares insights into building a travel and hospitality management platform, covering challenges in designing user-friendly trip planning features, hotel booking integration, and performance optimization strategies.
+- [🤖 Cold-Start Recommendations with Socially-Aware Spatial Markov Models ](https://www.linkedin.com/posts/sanjana--garimella_imagine-logging-into-netflix-for-the-first-activity-7420915603776888832-UYNz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWv7aUBvOLZzjOxE6C-_QfsF7q2q3ofegE):
+    Explores solving cold-start challenges in recommendation systems using a Socially-Aware Spatial Markov Random Field, showing how integrating social trust, user behavior, and probabilistic modeling enhances top-N recommendations for new users and items.
 
 ---
 
