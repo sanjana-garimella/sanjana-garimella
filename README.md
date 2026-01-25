@@ -41,7 +41,7 @@ I’m passionate about developing scalable, intelligent solutions that bridge **
 
 ---
 
-### 🤖 Socially-Aware Spatial Markov Random Field for Personalized Recommendation
+### 🤖 [Socially-Aware Spatial Markov Random Field for Personalized Recommendation](https://github.com/sanjana-garimella/socially-aware-spatial-markov-random-field-for-personalized-recommendation)
 **Description:**  
 Designed and implemented a top-N recommendation system to tackle cold-start users and extreme data sparsity (99.99%) on a large-scale consumer review dataset (Epinions).  
 
@@ -55,7 +55,7 @@ Designed and implemented a top-N recommendation system to tackle cold-start user
 
 ---
 
-### ✈️ Take a Trip – Travel & Hospitality Platform
+### ✈️ [Take a Trip – Travel & Hospitality Platform](https://github.com/sdp-projects/travel_tourism_hospitaity)
 **Description:**  
 Developed a web platform enabling users to plan trips across **10+ major cities in India**.  
 
@@ -68,7 +68,7 @@ Developed a web platform enabling users to plan trips across **10+ major cities 
 
 ---
 
-### 🌱 Green Grow – Green Entrepreneurship Platform
+### 🌱 [Green Grow – Green Entrepreneurship Platform](https://github.com/sanjana-garimella/green-grow)
 **Description:**  
 Developed a platform connecting green entrepreneurs with **stakeholders, experts, developers, and customers** to promote eco-friendly products and sustainable initiatives.  
 
