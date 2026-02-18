@@ -3,8 +3,11 @@
 🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**.
 💻 Former **Software Developer at IBM**, with hands-on experience in **machine learning**, **automation**, and **scalable systems**.  
 
-I’m passionate about developing scalable, intelligent solutions that bridge **data science and system engineering** from automating workflows to building ML-powered applications.
+I enjoy working at the intersection of data infrastructure and machine learning, building systems that can reliably handle large-scale data and using that foundation to power meaningful analytics and intelligent applications.
 
+Recently, I’ve been focusing on designing scalable data pipelines, distributed analytics workflows, and multi-model database architectures for ML-driven decision support. I’m especially interested in how strong data foundations enable more robust, practical, and scalable AI systems.
+
+I’m always looking to learn, build, and improve systems that are both technically sound and useful in real-world settings.
 ---
 
 ### 💼 Experience
@@ -73,7 +76,7 @@ Building a cloud-scale distributed pipeline to process **3.4B+ NYC taxi trips (5
 
 ### 🏥 Multi-Model Clinical Decision Support System  
 **Description:**  
-Building a clinical decision-support platform to improve medication safety by integrating relational, graph, and vector database systems.
+Building a clinical decision-support platform to improve medication safety by integrating multiple database systems.
 
 **Key Highlights:**  
 - Designing a multi-model data architecture combining **PostgreSQL (relational)**, **Neo4j (graph)**, and **Qdrant (vector)** databases.  
