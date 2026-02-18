@@ -3,7 +3,7 @@
 🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**.
 💻 Former **Software Developer at IBM**, with hands-on experience in **machine learning**, **automation**, and **scalable systems**.  
 
-I’m passionate about developing scalable, intelligent solutions that bridge **data science and system engineering** — from automating workflows to building ML-powered applications.
+I’m passionate about developing scalable, intelligent solutions that bridge **data science and system engineering** from automating workflows to building ML-powered applications.
 
 ---
 
@@ -52,6 +52,37 @@ Designed and implemented a top-N recommendation system to tackle cold-start user
 - Evaluated using **AUC, precision, recall, and confusion matrices** to validate effectiveness for real-world top-N recommendation scenarios.  
 
 **Technologies & Tools:** Python, Logistic Regression, Bayesian Modeling, Markov Random Fields, Social Network Analysis, NumPy, Pandas, Scikit-learn  
+
+---
+
+### 🚕 Cloud-Native Big Data Pipeline & Distributed Analytics Engine  
+**Description:**  
+Building a cloud-scale distributed pipeline to process **3.4B+ NYC taxi trips (57GB)** from Amazon S3 into a compressed, analysis-ready demand dataset.
+
+**Key Highlights:**  
+- Developing a memory-aware distributed ETL system using **Dask + PyArrow** to process 443 Parquet files directly from S3.  
+- Standardizing heterogeneous taxi schemas into a unified hourly demand representation.  
+- Designing adaptive partition optimization to balance memory and runtime (28GB peak, 16.9 min processing).  
+- Compressing 3.41B raw rows into 2.9M aggregated rows (~660× reduction) for downstream analytics.  
+- Implementing parallel month-wise processing, automated performance reporting, and full test coverage.  
+- Conducting distributed PCA, heavy-tail eigenvector analysis, and bootstrap stability evaluation with geospatial visualization.
+
+**Technologies & Tools:** Python, Dask, PyArrow, AWS S3, Parquet, Multiprocessing, Folium, Statistical Analysis
+
+---
+
+### 🏥 Multi-Model Clinical Decision Support System  
+**Description:**  
+Building a clinical decision-support platform to improve medication safety by integrating relational, graph, and vector database systems.
+
+**Key Highlights:**  
+- Designing a multi-model data architecture combining **PostgreSQL (relational)**, **Neo4j (graph)**, and **Qdrant (vector)** databases.  
+- Modeling drug–drug and drug–side-effect relationships in Neo4j for real-time interaction detection and therapeutic alternative discovery.  
+- Implementing semantic similarity search in Qdrant to surface adverse reactions from clinically similar patients using embedded openFDA reports.  
+- Managing structured patient medication data in PostgreSQL with ACID-consistent queries.  
+- Generating patient-specific safety summaries and recommending lower-risk treatment alternatives.
+
+**Technologies & Tools:** Python, PostgreSQL, Neo4j, Qdrant, SQL, Graph Modeling, Vector Search, ETL, Healthcare Data Integration
 
 ---
 
