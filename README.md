@@ -1,160 +1,206 @@
-## 👋 Hello, I’m Sanjana Garimella!
+# 👋 Hello, I’m Sanjana Garimella
 
-🎓 **Graduate Student (M.S. in Data Science)** at the **University of California, San Diego**.
-💻 Former **Software Developer at IBM**, with hands-on experience in **machine learning**, **automation**, and **scalable systems**.  
+🎓 **M.S. in Data Science** — University of California, San Diego  
+💻 Former **Software Developer @ IBM**
 
-I enjoy working at the intersection of data infrastructure and machine learning, building systems that can reliably handle large-scale data and using that foundation to power meaningful analytics and intelligent applications.
+I work at the intersection of **data infrastructure and machine learning**, building systems that process large-scale data and enable reliable AI-driven decision making.
 
-Recently, I’ve been focusing on designing scalable data pipelines, distributed analytics workflows, and multi-model database architectures for ML-driven decision support. I’m especially interested in how strong data foundations enable more robust, practical, and scalable AI systems.
-
-I’m always looking to learn, build, and improve systems that are both technically sound and useful in real-world settings.
----
-
-### 💼 Experience
-
-**Research Assistant – University of California, San Diego**  
-- Support large-scale neuroscience research by managing **Python-based data workflows**, **system reliability**, and **MongoDB databases**.  
-- Focus on **workflow optimization**, **automation**, and **computational reproducibility** in collaborative research environments.  
-
-**Software Developer – IBM**  
-- Automated **security scans** and enhanced the **MEND vulnerability tracking system** using Python, REST APIs, and Jenkins, impacting 100+ repositories across global teams.  
-- Managed **power subsystem automation** within IBM z Systems and contributed to data analysis and multi-cloud provisioning initiatives.  
-
-**Software Developer Intern – IBM**  
-- Built and deployed a **Grafana dashboard** integrating security scan data, improving visibility and decision-making for engineering teams.  
+My focus areas include **distributed data pipelines, scalable ML systems, and multi-model data architectures** that support real-world analytics and intelligent applications.
 
 ---
 
-### 🎓 Education
+## 🔬 Research & Technical Interests
 
-- **M.S. in Data Science**, *University of California, San Diego* (2025–2027, In Progress)  
-- **B.Tech in Computer Science**, *KL University* — CGPA: 3.65/4.0
-
----
-
-## 🤖 **Machine Learning Enthusiast**
-- **Amazon ML Summer Intern**  
-   Gained expertise in **supervised learning** and **deep neural networks**, exploring their transformative potential.  
-- **Indian Servers ML Intern**  
-   Developed **Face Mask Detection** system using OpenCV, Keras, and TensorFlow, applying machine learning to address real-world challenges during the COVID-19 pandemic.
+- Machine Learning Systems  
+- Data Infrastructure for AI  
+- Distributed Data Processing  
+- Large-Scale Recommendation Systems  
+- Multi-Model Databases for ML Applications  
 
 ---
 
-## 🔧 **Key Academic Projects**
+# 💼 Experience
+
+### Research Assistant — University of California, San Diego
+- Support **large-scale neuroscience research** by managing Python-based data workflows and MongoDB databases.
+- Improve **workflow automation, reliability, and computational reproducibility** across collaborative research environments.
+
+### Software Developer — IBM
+- Automated **security scanning pipelines** and enhanced the **MEND vulnerability tracking system**, impacting **100+ repositories across global teams**.
+- Worked on **power subsystem automation** within IBM z Systems and contributed to **data analysis and multi-cloud provisioning initiatives**.
+
+### Software Developer Intern — IBM
+- Built and deployed a **Grafana dashboard** integrating security scan data to improve system observability and decision making.
 
 ---
 
-### 🤖 [Socially-Aware Spatial Markov Random Field for Personalized Recommendation](https://github.com/sanjana-garimella/socially-aware-spatial-markov-random-field-for-personalized-recommendation)
-**Description:**  
-Designed and implemented a top-N recommendation system to tackle cold-start users and extreme data sparsity (99.99%) on a large-scale consumer review dataset (Epinions).  
+# 🎓 Education
 
-**Key Highlights:**  
-- Combined **Bayesian Logistic Regression** with a **Spatial Markov Random Field (MRF)** to integrate user behavior, content features, and social trust signals.  
-- Engineered **35+ features**, including review metadata and social network metrics (trust relationships, PageRank, centrality) to enhance model robustness under sparse conditions.  
-- Benchmarked against collaborative filtering and probabilistic baselines, achieving **25% relative improvement in AUC** over baseline and outperforming prior research approaches.  
-- Evaluated using **AUC, precision, recall, and confusion matrices** to validate effectiveness for real-world top-N recommendation scenarios.  
+**M.S. Data Science**  
+University of California, San Diego  
+2025 – 2027
 
-**Technologies & Tools:** Python, Logistic Regression, Bayesian Modeling, Markov Random Fields, Social Network Analysis, NumPy, Pandas, Scikit-learn  
+**B.Tech Computer Science**  
+KL University  
+CGPA: **3.65 / 4.0**
 
 ---
 
-### 🚕 Cloud-Native Big Data Pipeline & Distributed Analytics Engine  
-**Description:**  
-Building a cloud-scale distributed pipeline to process **3.4B+ NYC taxi trips (57GB)** from Amazon S3 into a compressed, analysis-ready demand dataset.
+# 🤖 Machine Learning Experience
 
-**Key Highlights:**  
-- Developing a memory-aware distributed ETL system using **Dask + PyArrow** to process 443 Parquet files directly from S3.  
-- Standardizing heterogeneous taxi schemas into a unified hourly demand representation.  
-- Designing adaptive partition optimization to balance memory and runtime (28GB peak, 16.9 min processing).  
-- Compressing 3.41B raw rows into 2.9M aggregated rows (~660× reduction) for downstream analytics.  
-- Implementing parallel month-wise processing, automated performance reporting, and full test coverage.  
-- Conducting distributed PCA, heavy-tail eigenvector analysis, and bootstrap stability evaluation with geospatial visualization.
+### Amazon ML Summer School
+Studied **supervised learning, deep neural networks, and ML system design**, gaining exposure to large-scale machine learning techniques.
 
-**Technologies & Tools:** Python, Dask, PyArrow, AWS S3, Parquet, Multiprocessing, Folium, Statistical Analysis
+### Machine Learning Intern — Indian Servers
+Developed a **Face Mask Detection system** using OpenCV, TensorFlow, and Keras during the COVID-19 pandemic.
 
 ---
 
-### 🏥 Multi-Model Clinical Decision Support System  
-**Description:**  
-Building a clinical decision-support platform to improve medication safety by integrating multiple database systems.
-
-**Key Highlights:**  
-- Designing a multi-model data architecture combining **PostgreSQL (relational)**, **Neo4j (graph)**, and **Qdrant (vector)** databases.  
-- Modeling drug–drug and drug–side-effect relationships in Neo4j for real-time interaction detection and therapeutic alternative discovery.  
-- Implementing semantic similarity search in Qdrant to surface adverse reactions from clinically similar patients using embedded openFDA reports.  
-- Managing structured patient medication data in PostgreSQL with ACID-consistent queries.  
-- Generating patient-specific safety summaries and recommending lower-risk treatment alternatives.
-
-**Technologies & Tools:** Python, PostgreSQL, Neo4j, Qdrant, SQL, Graph Modeling, Vector Search, ETL, Healthcare Data Integration
+# 🔧 Key Projects
 
 ---
 
-### ✈️ [Take a Trip – Travel & Hospitality Platform](https://github.com/sdp-projects/travel_tourism_hospitaity)
-**Description:**  
-Developed a web platform enabling users to plan trips across **10+ major cities in India**.  
+## 🤖 Socially-Aware Spatial Markov Random Field Recommendation System
+🔗 Repository:  
+https://github.com/sanjana-garimella/socially-aware-spatial-markov-random-field-for-personalized-recommendation
 
-**Key Highlights:**  
-- Led a team of 3 to implement features including **destination suggestions, hotel bookings**, and access to **trusted travel agents**.  
-- Optimized database queries to **reduce page load time by 30%** and improved **multi-user session handling**.  
-- Engineered backend systems to support **scalable and seamless user experience**.  
+Designed a **top-N recommendation system** addressing **cold-start users and extreme sparsity (99.99%)** in the Epinions dataset.
 
-**Technologies & Tools:** Python, Django, MySQL, HTML, CSS, JavaScript  
+**Highlights**
+- Combined **Bayesian Logistic Regression** with a **Spatial Markov Random Field**
+- Engineered **35+ social and behavioral features**
+- Integrated **user behavior, content signals, and trust networks**
+- Achieved **25% improvement in AUC** over baseline methods
 
----
+**Tech Stack**
 
-### 🌱 [Green Grow – Green Entrepreneurship Platform](https://github.com/sanjana-garimella/green-grow)
-**Description:**  
-Developed a platform connecting green entrepreneurs with **stakeholders, experts, developers, and customers** to promote eco-friendly products and sustainable initiatives.  
-
-**Key Highlights:**  
-- Enabled entrepreneurs to **submit innovative ideas**, validated by experts, funded by stakeholders, and developed into **market-ready products**.  
-- Built **e-commerce functionality** for green products, connecting sustainable ideas to customers.  
-- Deployed on **AWS (EC2 & RDS)**, ensuring **scalability, reliability**, and smooth integration across all modules.  
-
-**Technologies & Tools:** Spring Boot, MySQL, AWS EC2 & RDS, S3, JSP, Java
-
-
+Python • NumPy • Pandas • Scikit-learn • Bayesian Modeling • Social Network Analysis
 
 ---
 
-## 🔑 **Technical Skills**
+## 🚕 Cloud-Native Big Data Pipeline & Distributed Analytics Engine
 
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java | ![R](https://img.icons8.com/color/48/000000/r.png) R | ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL |
-|:---:|:---:|:---:|:---:|
-| ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) Grafana | ![Jupyter](https://img.icons8.com/?id=J0SgMWzAxqFj&format=png&color=000000) Jupyter | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code | ![Github](https://img.icons8.com/color/48/000000/github.png) GitHub |
-| ![SpringBoot](https://img.icons8.com/?id=90519&format=png&color=000000) SpringBoot | ![Numpy/Pandas](https://img.icons8.com/?id=aR9CXyMagKIS&format=png&color=000000) Numpy/Pandas | ![Flask](https://img.icons8.com/?id=AqYCfGyGXlO7&format=png&color=000000) Flask | ![Matplotlib](https://img.icons8.com/?id=PgTKtIyFRYNh&format=png&color=000000) Matplotlib |
-| ![Django](https://img.icons8.com/color/48/000000/django.png) Django | ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
+Built a **distributed data processing pipeline** for **3.4B NYC taxi trips (57GB)** stored on S3.
 
----
+**Highlights**
 
-## 🏅 **Achievements**
-- 🏆 **Star of the Month Award**  
-   Enhanced the **MEND vulnerability tracking system**, streamlining onboarding for over 100 repositories.  
-- 🌟 **Infrastructure All Hands Recognition**  
-   Streamlined security onboarding processes across 18 global subsystems.  
-- 🎖️ **People’s Choice Award**  
-   Awarded for innovative **multi-cloud provisioning MVP**, reducing cloud costs by **40%**.
+- Distributed ETL pipeline using **Dask + PyArrow**
+- Processed **443 parquet files directly from S3**
+- Reduced **3.41B rows → 2.9M aggregated rows (660× compression)**
+- Implemented **parallel month-wise processing and automated reporting**
+- Performed **distributed PCA and geospatial demand analysis**
+
+**Tech Stack**
+
+Python • Dask • PyArrow • AWS S3 • Parquet • Multiprocessing • Folium
 
 ---
 
-## 📚 **Blogs**
--
-- [📊 Role of Data Science in Healthcare](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-ds-activity-6792782394928852992-_rtv?utm_source=share&utm_medium=member_desktop):  
-   Explores how data science techniques are transforming healthcare from predictive analytics to patient care optimization, highlighting real-world applications and industry trends.  
-- [🌍 Take a Trip Project Blog](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-activity-6766830065876660224-k3sy?utm_source=share&utm_medium=member_desktop):  
-   Shares insights into building a travel and hospitality management platform, covering challenges in designing user-friendly trip planning features, hotel booking integration, and performance optimization strategies  
-- [🌱 Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=member_desktop):  
-    Discusses building a green entrepreneurship platform connecting innovators, investors, and customers to promote sustainable products and eco-friendly initiatives.
-- [🤖 Cold-Start Recommendations with Socially-Aware Spatial Markov Models ](https://www.linkedin.com/posts/sanjana--garimella_imagine-logging-into-netflix-for-the-first-activity-7420915603776888832-UYNz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWv7aUBvOLZzjOxE6C-_QfsF7q2q3ofegE):
-    Explores solving cold-start challenges in recommendation systems using a Socially-Aware Spatial Markov Random Field, showing how integrating social trust, user behavior, and probabilistic modeling enhances top-N recommendations for new users and items.
+## 🏥 Multi-Model Clinical Decision Support System
+
+Developing a clinical decision support system combining **relational, graph, and vector databases**.
+
+**Highlights**
+
+- **PostgreSQL** for patient medication records
+- **Neo4j** for drug interaction graphs
+- **Qdrant** for vector similarity search on adverse reactions
+- Generated **patient-specific safety recommendations**
+
+**Tech Stack**
+
+Python • PostgreSQL • Neo4j • Qdrant • SQL • Vector Search • ETL
 
 ---
 
-## 📞 **Contact Information**
-- ✉️ Email: [sanjanagarimella6@gmail.com](mailto:sanjanagarimella6@gmail.com)  
-- 💼 LinkedIn: [Sanjana Garimella](https://www.linkedin.com/in/sanjana--garimella/)  
+## ✈️ Take a Trip – Travel & Hospitality Platform
+🔗 https://github.com/sdp-projects/travel_tourism_hospitaity
+
+Developed a platform for planning trips across **10+ cities in India**.
+
+**Highlights**
+
+- Led a **3-member team**
+- Built **destination discovery, hotel booking, and travel agent integration**
+- Improved query efficiency reducing **page load time by 30%**
+
+**Tech Stack**
+
+Python • Django • MySQL • HTML • CSS • JavaScript
 
 ---
 
-## 🤝 **Let's Connect!**
-💡 **I am constantly learning and passionate about tackling complex challenges.** Let's connect and collaborate on exciting projects that make a difference!
+## 🌱 Green Grow – Green Entrepreneurship Platform
+🔗 https://github.com/sanjana-garimella/green-grow
+
+Platform connecting **entrepreneurs, experts, investors, and customers** to promote sustainable products.
+
+**Highlights**
+
+- Built **idea validation and funding workflow**
+- Integrated **green product e-commerce**
+- Deployed on **AWS EC2 + RDS**
+
+**Tech Stack**
+
+Spring Boot • MySQL • AWS • Java • JSP
+
+---
+
+# 🧰 Technical Skills
+
+**Languages**
+
+Python • Java • SQL • R
+
+**Data / ML**
+
+NumPy • Pandas • TensorFlow • Scikit-learn
+
+**Systems & Tools**
+
+AWS • Jenkins • Grafana • GitHub • Jupyter • VS Code
+
+**Frameworks**
+
+Django • Flask • Spring Boot
+
+---
+
+# 🏅 Achievements
+
+🏆 **Star of the Month — IBM**  
+Improved MEND vulnerability tracking and onboarding automation.
+
+🌟 **Infrastructure All-Hands Recognition**  
+Streamlined security onboarding across **18 subsystems**.
+
+🎖 **People’s Choice Award**  
+Built an MVP for **multi-cloud provisioning**, reducing cloud costs by **40%**.
+
+---
+
+# 📚 Blogs
+
+📊 **Role of Data Science in Healthcare**  
+Explores how data science improves healthcare analytics and patient outcomes.
+
+🌍 **Take a Trip Project Blog**  
+Discusses system design and optimization for travel planning platforms.
+
+🌱 **Green Grow Platform Blog**  
+Explores building technology ecosystems supporting sustainable entrepreneurship.
+
+🤖 **Cold-Start Recommendations with Spatial Markov Models**  
+Deep dive into solving recommendation cold-start problems using probabilistic models.
+
+---
+
+# 📬 Contact
+
+📧 Email: sanjanagarimella6@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/sanjana--garimella/
+
+---
+
+⭐ **Always excited to collaborate on data systems, machine learning, and real-world AI projects.**
