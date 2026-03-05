@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Sanjana Garimella
 
-🎓 **M.S. in Data Science** — University of California, San Diego  
+🎓 **M.S. in Data Science**, University of California, San Diego  
 💻 Former **Software Developer @ IBM**
 
 I work at the intersection of **data infrastructure and machine learning**, building systems that process large-scale data and enable reliable AI-driven decision making.
@@ -21,15 +21,15 @@ My focus areas include **distributed data pipelines, scalable ML systems, and mu
 
 # 💼 Experience
 
-### Research Assistant — University of California, San Diego
+### Research Assistant, University of California, San Diego
 - Support **large-scale neuroscience research** by managing Python-based data workflows and MongoDB databases.
 - Improve **workflow automation, reliability, and computational reproducibility** across collaborative research environments.
 
-### Software Developer — IBM
+### Software Developer, IBM
 - Automated **security scanning pipelines** and enhanced the **MEND vulnerability tracking system**, impacting **100+ repositories across global teams**.
 - Worked on **power subsystem automation** within IBM z Systems and contributed to **data analysis and multi-cloud provisioning initiatives**.
 
-### Software Developer Intern — IBM
+### Software Developer Intern, IBM
 - Built and deployed a **Grafana dashboard** integrating security scan data to improve system observability and decision making.
 
 ---
@@ -113,7 +113,7 @@ Python • PostgreSQL • Neo4j • Qdrant • SQL • Vector Search • ETL
 
 ---
 
-## ✈️ Take a Trip – Travel & Hospitality Platform
+## ✈️ Take a Trip,  Travel & Hospitality Platform
 🔗 https://github.com/sdp-projects/travel_tourism_hospitaity
 
 Developed a platform for planning trips across **10+ cities in India**.
@@ -130,7 +130,7 @@ Python • Django • MySQL • HTML • CSS • JavaScript
 
 ---
 
-## 🌱 Green Grow – Green Entrepreneurship Platform
+## 🌱 Green Grow, Green Entrepreneurship Platform
 🔗 https://github.com/sanjana-garimella/green-grow
 
 Platform connecting **entrepreneurs, experts, investors, and customers** to promote sustainable products.
@@ -169,7 +169,7 @@ Django • Flask • Spring Boot
 
 # 🏅 Achievements
 
-🏆 **Star of the Month — IBM**  
+🏆 **Star of the Month, IBM**  
 Improved MEND vulnerability tracking and onboarding automation.
 
 🌟 **Infrastructure All-Hands Recognition**  
