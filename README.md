@@ -144,7 +144,7 @@ Developed a platform connecting green entrepreneurs with **stakeholders, experts
 - [🌍 Take a Trip Project Blog](https://www.linkedin.com/posts/sanjana--garimella_kluniversity-klcse-activity-6766830065876660224-k3sy?utm_source=share&utm_medium=member_desktop):  
    Shares insights into building a travel and hospitality management platform, covering challenges in designing user-friendly trip planning features, hotel booking integration, and performance optimization strategies  
 - [🌱 Green Grow Blog](https://www.linkedin.com/posts/sanjana--garimella_klcse-kluniversity-jfsd-activity-6885988188725370880-BAqe?utm_source=share&utm_medium=member_desktop):  
-   Shares insights into building a travel and hospitality management platform, covering challenges in designing user-friendly trip planning features, hotel booking integration, and performance optimization strategies.
+    Discusses building a green entrepreneurship platform connecting innovators, investors, and customers to promote sustainable products and eco-friendly initiatives.
 - [🤖 Cold-Start Recommendations with Socially-Aware Spatial Markov Models ](https://www.linkedin.com/posts/sanjana--garimella_imagine-logging-into-netflix-for-the-first-activity-7420915603776888832-UYNz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWv7aUBvOLZzjOxE6C-_QfsF7q2q3ofegE):
     Explores solving cold-start challenges in recommendation systems using a Socially-Aware Spatial Markov Random Field, showing how integrating social trust, user behavior, and probabilistic modeling enhances top-N recommendations for new users and items.
 
