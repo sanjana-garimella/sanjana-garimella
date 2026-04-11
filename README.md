@@ -42,7 +42,6 @@ University of California, San Diego
 
 **B.Tech Computer Science**  
 KL University  
-CGPA: **3.65 / 4.0**
 
 ---
 
