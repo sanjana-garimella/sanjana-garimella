@@ -24,7 +24,7 @@ Looking for data science, AI, applied scientist, and ML engineer roles starting 
 - **ML & Deep Learning:** PyTorch · scikit-learn · XGBoost · Stable-Baselines3 (RL) · Transformers · Sentence-Transformers · Prophet
 - **NLP & Healthcare AI:** BioBERT · PubMedBERT · ClinicalBERT · BioLORD · NER · clinical decision support · knowledge graphs · rule-based / neurosymbolic systems
 - **Computer Vision:** ResNet · ViT · medical image classification
-- **ML Systems:** Triton kernels · CUDA · MPI · tensor / data / expert parallelism · Mixture of Experts · autodiff from scratch · inference benchmarking
+- **ML Systems:** MPI · tensor / data / expert parallelism · Mixture of Experts · autodiff from scratch · inference benchmarking
 - **Data Engineering & Cloud:** Dask · PyArrow · Parquet · Snowflake Cortex · Databricks DLT · AWS (S3, EC2, SageMaker)
 - **Databases:** PostgreSQL · Neo4j · MongoDB · Qdrant · SQLite
 - **Apps & Deployment:** Python · SQL · FastAPI · Streamlit · Next.js · Docker · Hugging Face Spaces · Git
