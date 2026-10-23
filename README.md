@@ -20,10 +20,16 @@ Looking for data science, AI, applied scientist, and ML engineer roles starting 
 
 ## 🧰 Skills
 
-- **ML & NLP:** Machine Learning · NLP · LLMs · RAG · PyTorch · Transformers (BioBERT, ClinicalBERT)
-- **Healthcare AI:** Clinical Decision Support · Responsible AI · Rule-based / Neurosymbolic Systems
-- **Systems & Data:** Python · SQL · vLLM · Dask · FastAPI · Docker · AWS · Git
-- **Evaluation:** Statistical Validation · Software Testing · Technical Writing
+- **LLMs & GenAI:** vLLM · LangChain · LangGraph · MCP · RAG · FAISS · ChromaDB · Qdrant · PagedAttention / FlashAttention · speculative decoding · quantization
+- **ML & Deep Learning:** PyTorch · scikit-learn · XGBoost · Stable-Baselines3 (RL) · Transformers · Sentence-Transformers · Prophet
+- **NLP & Healthcare AI:** BioBERT · PubMedBERT · ClinicalBERT · BioLORD · NER · clinical decision support · knowledge graphs · rule-based / neurosymbolic systems
+- **Computer Vision:** ResNet · ViT · medical image classification
+- **ML Systems:** Triton kernels · CUDA · MPI · tensor / data / expert parallelism · Mixture of Experts · autodiff from scratch · inference benchmarking
+- **Data Engineering & Cloud:** Dask · PyArrow · Parquet · Snowflake Cortex · Databricks DLT · AWS (S3, EC2, SageMaker)
+- **Databases:** PostgreSQL · Neo4j · MongoDB · Qdrant · SQLite
+- **Apps & Deployment:** Python · SQL · FastAPI · Streamlit · Next.js · Docker · Hugging Face Spaces · Git
+- **Security:** security data pipelines · vulnerability & CVE analysis · privacy by design (IBM Z)
+- **Evaluation:** statistical validation (Cohen's κ, bootstrap, Davis-Kahan) · A/B testing · software testing
 
 ---
 
