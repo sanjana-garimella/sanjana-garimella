@@ -27,9 +27,9 @@ Looking for data science, AI, applied scientist, and ML engineer roles starting 
 - **ML Systems:** MPI · tensor / data / expert parallelism · Mixture of Experts · autodiff from scratch · inference benchmarking
 - **Data Engineering & Cloud:** Dask · PyArrow · Parquet · Snowflake Cortex · Databricks DLT · AWS (S3, EC2, SageMaker)
 - **Databases:** PostgreSQL · Neo4j · MongoDB · Qdrant · SQLite
-- **Apps & Deployment:** Python · SQL · FastAPI · Streamlit · Next.js · Docker · Hugging Face Spaces · Git
+- **Apps & Deployment:** Python · SQL · FastAPI · Streamlit · Docker · Hugging Face Spaces · Git
 - **Security:** security data pipelines · vulnerability & CVE analysis · privacy by design (IBM Z)
-- **Evaluation:** statistical validation (Cohen's κ, bootstrap, Davis-Kahan) · A/B testing · software testing
+- **Statistics & Evaluation:** distributed PCA · Davis-Kahan stability bounds · bootstrap validation · geospatial analysis · Cohen's κ · A/B testing · software testing
 
 ---
 
