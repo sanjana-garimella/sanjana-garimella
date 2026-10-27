@@ -20,16 +20,11 @@ Looking for data science, AI, applied scientist, and ML engineer roles starting 
 
 ## 🧰 Skills
 
-- **LLMs & GenAI:** vLLM · LangChain · LangGraph · MCP · RAG · FAISS · ChromaDB · Qdrant · PagedAttention / FlashAttention · speculative decoding · quantization
-- **ML & Deep Learning:** PyTorch · scikit-learn · XGBoost · Stable-Baselines3 (RL) · Transformers · Sentence-Transformers · Prophet
-- **NLP & Healthcare AI:** BioBERT · PubMedBERT · ClinicalBERT · BioLORD · NER · clinical decision support · knowledge graphs · rule-based / neurosymbolic systems
-- **Computer Vision:** ResNet · ViT · medical image classification
-- **ML Systems:** MPI · tensor / data / expert parallelism · Mixture of Experts · autodiff from scratch · inference benchmarking
-- **Data Engineering & Cloud:** Dask · PyArrow · Parquet · Snowflake Cortex · Databricks DLT · AWS (S3, EC2, SageMaker)
-- **Databases:** PostgreSQL · Neo4j · MongoDB · Qdrant · SQLite
-- **Apps & Deployment:** Python · SQL · FastAPI · Streamlit · Docker · Hugging Face Spaces · Git
-- **Security:** security data pipelines · vulnerability & CVE analysis · privacy by design (IBM Z)
-- **Statistics & Evaluation:** distributed PCA · Davis-Kahan stability bounds · bootstrap validation · geospatial analysis · Cohen's κ · A/B testing · software testing
+- **LLMs & GenAI**: vLLM, LangGraph, MCP, RAG, FAISS, Qdrant, PagedAttention, speculative decoding, quantization
+- **ML & NLP**: PyTorch, scikit-learn, XGBoost, Transformers, Stable-Baselines3, BioBERT, ClinicalBERT, NER, knowledge graphs
+- **ML Systems**: MPI, tensor/data/expert parallelism, Mixture of Experts, inference benchmarking
+- **Data & Cloud**: Python, SQL, Snowflake, Databricks, Dask, PostgreSQL, Neo4j, AWS (S3, EC2, SageMaker), Docker, FastAPI
+- **Statistics**: A/B testing, bootstrap validation, distributed PCA, Cohen's κ
 
 ---
 
